@@ -1,0 +1,18 @@
+com/example/chatting_program/databinding/ItemRightBinding.java
+ com.example.chatting_program.databinding.ItemRightBinding
+com/example/chatting_program/databinding/ItemLeftBinding.java
+ com.example.chatting_program.databinding.ItemLeftBinding
+com/example/chatting_program/databinding/ActivityUpupBinding.java
+ com.example.chatting_program.databinding.ActivityUpupBinding
+com/example/chatting_program/databinding/ActivityMainBinding.java
+ com.example.chatting_program.databinding.ActivityMainBinding
+com/example/chatting_program/databinding/ActivityMain2Binding.java
+ com.example.chatting_program.databinding.ActivityMain2Binding
+com/example/chatting_program/BuildConfig.java
+ com.example.chatting_program.BuildConfig
+com/example/chatting_program/databinding/ActivityChattingBinding.java
+ com.example.chatting_program.databinding.ActivityChattingBinding
+com/example/chatting_program/MainActivity.java
+ com.example.chatting_program.MainActivity
+com/example/chatting_program/databinding/ActivityMain3Binding.java
+ com.example.chatting_program.databinding.ActivityMain3Binding

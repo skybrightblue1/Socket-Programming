@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/bg_input.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/bg_message.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/bg_message_left.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/bg_message_right.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/bg_radius3.xml" value="0.1890625" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/ic_detail_star_checked.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/ic_detail_unchecked.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/login_out.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/rectangle_gray.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/drawable/rectangle_sopt_radius_5.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_chatting.xml" value="0.264" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_main2.xml" value="0.196875" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_upup.xml" value="0.264" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/layout/background_input.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/layout/item_left.xml" value="0.264" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/layout/item_right.xml" value="0.1" />
+        <entry key="..\:/Users/TFX5470H/AndroidStudioProjects/Chatting/app/src/main/res/xml/network_security_config.xml" value="0.2296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
