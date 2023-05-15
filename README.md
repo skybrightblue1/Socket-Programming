@@ -1,4 +1,5 @@
 # Socket-Programming in java
+* 자바와 안드로이드 앱을 사용한 소켓 프로그래밍
 ## 🖥️ 프로젝트 소개
 ![슬라이드2](https://github.com/skybrightblue1/Socket-Programming/assets/88912947/054a1743-28d7-465b-bc49-3e676d165607)
 * 네트워크 수업시간에 배운 Socket Programming을 활용하여 치과 의료상담 채팅 서비스를 만들었습니다. 
