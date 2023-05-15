@@ -1,5 +1,5 @@
 # Socket-Programming in java
-* 의료상담 채팅 앱 서비스를 제공하기 위한 자바 소켓프로그래밍 구현 
+* 의료상담 채팅 서비스를 제공하기 위한 자바 소켓프로그래밍 구현 
 ## 🖥️ 프로젝트 소개
 ![슬라이드2](https://github.com/skybrightblue1/Socket-Programming/assets/88912947/054a1743-28d7-465b-bc49-3e676d165607)
 * 네트워크 수업시간에 배운 Socket Programming을 활용하여 치과 의료상담 채팅 서비스를 만들었습니다. 
@@ -17,7 +17,9 @@
 * 서버를 작동시키면 다음과 같은 화면이 나옵니다. 스레드 풀 기법을 사용하여 병렬 작업처리를 handling 하게 됩니다. 
 ### 📌 Web Client
 ![슬라이드6](https://github.com/skybrightblue1/Socket-Programming/assets/88912947/d3703fd0-1f8d-427f-99f9-71330f428728)
+* 의료진과 환자가 웹을 통해 상담하는 장면을 구성해보았습니다.
 ### 📌 Android Client
 ![슬라이드7](https://github.com/skybrightblue1/Socket-Programming/assets/88912947/638b5136-03fe-4895-a5b5-595918c79373)
+* 의료진과 환자가 안드로이드 을 통해 상담하는 장면을 구성해보았습니다.
 ### 📌 Client 실행과정
 ![슬라이드8](https://github.com/skybrightblue1/Socket-Programming/assets/88912947/85fbe58f-d394-456d-a92d-d14ca8b42d82)
