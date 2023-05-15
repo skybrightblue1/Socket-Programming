@@ -6,7 +6,8 @@
 ![슬라이드2](https://github.com/skybrightblue1/Socket-Programming/assets/88912947/054a1743-28d7-465b-bc49-3e676d165607)
 * 네트워크 수업시간에 배운 Socket Programming을 활용하여 치과 의료상담 채팅 서비스를 만들었습니다. 
 * 2명이서 Java로 Server와 Client측 Socket Programming 코드를 작성하였고, Kotlin으로 채팅 앱을 만들어서 연결하였습니다. 
-* 기여도 : 제가 Java로 Server와 Client측 소켓 통신을 구상하였고, 다른 팀원이 Kotlin으로 안드로이드 앱을 구상하였습니다. 제가 Server를 작동시키고 다른 팀원이 Client를 서버에 접속시켜서 원격 통신을 성공시켰습니다.
+* 역할분담 :제가 Java로 Server와 Client측 소켓 통신을 구상하였고, 다른 팀원이 Kotlin으로 안드로이드 앱을 구상하였습니다.
+* 먼저 Server를 작동하고 Client들이 서버에 접속하여 통신을 하는 구성입니다.
 <br/>
 
 ## ⚙️ 주요 기능 
